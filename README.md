@@ -1,2 +1,18 @@
 # DrawSHapes
-This is project shows Triangle and Rectangle with the help of C#
+
+## Overview 
+
+ Here are what i used in `Program.cs` file:
+
+ * Console Input/Output
+ * Switch statement
+ * For Loop
+
+## Triangle 
+
+![](./Assets/code-snapshot.png)
+
+## Rectangle 
+
+![](./Assets/switch%202)
+
